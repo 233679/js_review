@@ -3,9 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:9081/</loc>
-    <lastmod>2024-05-15T14:18:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:9081/categories/</loc>
+  </url><url>
+    <loc>http://localhost:9081/equality/</loc>
   </url><url>
     <loc>http://localhost:9081/object_is/</loc>
   </url><url>
